@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMovieStage1</string>
+    <string name="Title">Title:</string>
+    <string name="Vote_avg">Vote_average:</string>
+    <string name="Poster">Poster:</string>
+    <string name="Overview">Overview:</string>
+    <string name="relase_date">Release_Date:</string>
+</resources>
